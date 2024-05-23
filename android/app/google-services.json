@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "343569930290",
+    "project_id": "fluttertypescript-46cc5",
+    "storage_bucket": "fluttertypescript-46cc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343569930290:android:432914f749065b0335842b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_tweet_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtJoPf4W4HOteP7E1dQfeSV0owKZ-fP3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
