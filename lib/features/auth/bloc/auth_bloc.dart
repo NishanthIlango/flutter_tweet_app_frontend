@@ -8,7 +8,6 @@ import 'package:flutter_tweet_app/core/local_db/shared_prefs_manager.dart';
 import 'package:flutter_tweet_app/features/auth/models/user_model.dart';
 import 'package:flutter_tweet_app/features/auth/repo/auth_repo.dart';
 import 'package:meta/meta.dart';
-import 'package:shared_preferences/shared_preferences.dart';
 
 part 'auth_event.dart';
 part 'auth_state.dart';
