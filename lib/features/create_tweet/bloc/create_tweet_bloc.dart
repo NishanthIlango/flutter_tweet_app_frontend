@@ -2,7 +2,6 @@ import 'dart:async';
 
 import 'package:bloc/bloc.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter_tweet_app/features/create_tweet/repos/create_tweet_repo.dart';
 import 'package:meta/meta.dart';
 import 'package:uuid/uuid.dart';
